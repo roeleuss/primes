@@ -1,0 +1,9 @@
+# ignore files without extensions
+*
+!/**/
+!*.*
+
+# ignore others
+bin
+obj
+*.class
